@@ -2,6 +2,3 @@ Report : https://docs.google.com/document/d/17zFFEZtRrE-Iame10Gv8-Xy_1f5eUcYbxpk
 
 
 Drive : https://drive.google.com/drive/folders/1CSRPItLrGG0HsJpT57QUUGoiXzpdzx8V?usp=drive_link
-
-
-Kaggle Notebooks : https://www.kaggle.com/datasets/kmader/rsna-bone-age/code?datasetId=10832&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false
