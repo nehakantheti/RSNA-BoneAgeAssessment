@@ -1,0 +1,11 @@
+eda-analytics-prml-projet.ipynb : 
+has all the EDA results (Please find related comments and conclusions in the report)
+
+model1&2 : 
+ipynb file has 2 models in it, one after the other, model1 and model2 in the report respectively (TwoModelFusionBest.ipynb)
+
+model3 : 
+resnet 50 architeture model integraed model with 2 heads one is regression head and other is classification head (project(2).ipynb)
+
+model4 : 
+resnet 152 architecture model with hybrid model (run, but results didn't get saved - so ignore this please) and separate models for regression task and classification task. (baa-resnet-152(2).ipynb)
